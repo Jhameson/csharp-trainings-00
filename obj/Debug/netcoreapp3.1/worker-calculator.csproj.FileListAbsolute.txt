@@ -1,0 +1,13 @@
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\bin\Debug\netcoreapp3.1\worker-calculator.exe
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\bin\Debug\netcoreapp3.1\worker-calculator.deps.json
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\bin\Debug\netcoreapp3.1\worker-calculator.runtimeconfig.json
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\bin\Debug\netcoreapp3.1\worker-calculator.runtimeconfig.dev.json
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\bin\Debug\netcoreapp3.1\worker-calculator.dll
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\bin\Debug\netcoreapp3.1\worker-calculator.pdb
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.csprojAssemblyReference.cache
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.AssemblyInfoInputs.cache
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.AssemblyInfo.cs
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.csproj.CoreCompileInputs.cache
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.dll
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.pdb
+C:\Users\jhameson.farias\source\repos\worker-calculator\worker-calculator\obj\Debug\netcoreapp3.1\worker-calculator.genruntimeconfig.cache
