@@ -43,6 +43,7 @@ namespace Course
                 worker.AddContract(contract);
 
             }
+
             Console.WriteLine();
             Console.Write("Enter month and year to calculate income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine();
